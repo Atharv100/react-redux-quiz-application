@@ -1,0 +1,99 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a state in React?",
+      "options": [
+        "External storage of the component",
+        "A permanent storage",
+        "Internal storage of the component",
+        "None of the above"
+      ],
+      "answer": "Internal storage of the component"
+    },
+    {
+      "id": 2,
+      "question": "Does React.js create a VIRTUAL DOM in the memory?",
+      "options": ["True", "False", "Cannot say", "None of the above"],
+      "answer": "True"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is used to pass data to a component from outside in React.js?",
+      "options": ["Render with arguments", "PropTypes", "SetState", "Props"],
+      "answer": "Props"
+    },
+    {
+      "id": 4,
+      "question": "What are the two ways to handle data in React?",
+      "options": [
+        "Services & Components",
+        "State & Component",
+        "State & Props",
+        "State & Services"
+      ],
+      "answer": "State & Props"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the correct name of React.js?",
+      "options": ["React.js", "React", "ReactJS", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 6,
+      "question": "What does ES6 stand for?",
+      "options": [
+        "ECMAJavaScript 6",
+        "ECMA 6",
+        "ECMAScript 6",
+        "EJavaScript 6"
+      ],
+      "answer": "ECMAScript 6"
+    },
+    {
+      "id": 7,
+      "question": "What is the use of “web pack” command in React.js?",
+      "options": [
+        "It is a module bundler",
+        "The “webpack” command is used to transpile all the JavaScript down into one file",
+        "It runs React local development server",
+        "None of the above"
+      ],
+      "answer": "It is a module bundler"
+    },
+    {
+      "id": 8,
+      "question": "In which of the following directory React.js components are saved?",
+      "options": [
+        "Inside the vendor/components/",
+        "Inside the vendor/",
+        "Inside the js/components/",
+        "Inside the external/components/"
+      ],
+      "answer": "Inside the js/components/"
+    },
+    {
+      "id": 9,
+      "question": "Which of the following function is used to change the state of the React.js component?",
+      "options": [
+        "this.setChangeState",
+        "this.State{}",
+        "this.setState",
+        "None of the above"
+      ],
+      "answer": "this.setState"
+    },
+    {
+      "id": 10,
+      "question": "In which of the following condition, the React.js Lifecycle method static get Derived Stae From Props(props, state) is called?",
+      "options": [
+        "The state of the component is updated",
+        "The component is created for the first time",
+        "All of above",
+        "None"
+      ],
+      "answer": "All of above"
+    }
+  ]
+}
